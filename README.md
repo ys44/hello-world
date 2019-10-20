@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个存储库
+我只是想熟悉一下流程。（别对我太苛刻）
